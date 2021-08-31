@@ -1,7 +1,7 @@
 # pop-shop-auto-install
 This is a Script which'll automatically build and install Pop-shop once launched
 
-#INSTALLATION
+# INSTALLATION
 Just copy and paste the below one-line command in a terminal
 
 ```
