@@ -5,4 +5,4 @@ This is a Script which'll automatically build and install Pop-shop once launched
 Just copy and paste the below one-line command in a terminal
 
 ```
-sudo apt install curl && curl https://raw.githubusercontent.com/animegamer4422/pop-shop-auto-install/main/pop-shop-auto-installer.sh | sh
+sudo apt install curl && curl https://raw.githubusercontent.com/animegamer4422/pop-shop-auto-install/main/pop-shop-auto-installer.sh | bash
